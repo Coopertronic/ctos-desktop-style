@@ -2,14 +2,14 @@
 
 pkgname=ctos-desktop-style
 _destname1="/usr"
-pkgver=1.r
+pkgver=1.r16.642f091
 pkgrel=1
 pkgdesc="This installs the skel folder in etc that is used to generate a new user."
 arch=('any')
 url="https://github.com/Coopertronic/$pkgname.git"
 license=('GPL3')
 makedepends=('git')
-depends=('ctos-skel')
+depends=()
 conflicts=()
 provides=("${pkgname}")
 options=(!strip !emptydirs)
