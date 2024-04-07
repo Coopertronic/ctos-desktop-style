@@ -10,3 +10,6 @@ The following is what has been included in the `/usr/share` folder. Please note 
 Here are the themes I have used:
 
 ![folders_expanded](https://github.com/Coopertronic/ctos-desktop-style/assets/17339716/dcf8e8ea-a10b-4096-8c90-9be62e2d2e2c)
+
+I will see on the next ISO spin if they are installed globally. I will have to update the skel after I have done this. The current ctos-skel should be enough for now.
+
