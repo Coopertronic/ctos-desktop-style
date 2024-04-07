@@ -5,5 +5,5 @@ A package that installs all the icon, themes, styles, pointers and colours to `/
 
 The following is what has been included in the `/usr/share` folder. Please note that these folders only contain assets and not scripts per-say.
 
-![](https://github.com/Coopertronic/ctos-desktop-style/tree/main/folders.png)
+
 
