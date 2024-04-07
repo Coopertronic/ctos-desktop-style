@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../neon-knights-kde-pasma"
+		},
+		{
+			"path": "../ctos-skel"
+		}
+	],
+	"settings": {}
+}
